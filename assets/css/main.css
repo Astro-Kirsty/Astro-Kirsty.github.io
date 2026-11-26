@@ -186,7 +186,6 @@ input, select, textarea {
 		overflow-wrap: break-word; /* Correct for most browsers */
 		max-width: 100%; /* Fit within the screen */
 	}
-	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 			color: inherit;
@@ -204,7 +203,6 @@ input, select, textarea {
 			word-wrap: break-word; /* Allows line break and wrap to next line */
 			word-break: break-word; /* Handles extra long words */
 			overflow-wrap: break-word; /* Correct for most browsers */
-		}			
 		}
 
 	h1 {
@@ -221,7 +219,6 @@ input, select, textarea {
 		word-break: break-word; /* Handles extra long words */
 		overflow-wrap: break-word; /* Correct for most browsers */
 	}		
-	}
 
 	h3 {
 		font-size: 1rem;
@@ -1269,7 +1266,6 @@ input, select, textarea {
 		word-wrap: break-word; /* Allows line break and wrap to next line */
 		word-break: break-word; /* Handles extra long words */
 		overflow-wrap: break-word; /* Correct for most browsers */
-		
 	}
 
 		#header > * {
